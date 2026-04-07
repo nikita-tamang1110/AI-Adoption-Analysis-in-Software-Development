@@ -14,7 +14,7 @@ AI tools have rapidly become a standard part of the modern developer’s toolkit
 ## Dataset Details
 Dataset Source: [2025 Stack Overflow Developer Survey](https://www.kaggle.com/datasets/edoardogalli/stack-overflow-annual-developer-survey-2025)
 ## Dashboard 
-<img src="dashboard.png" alt="Dashboard" width="100%">
+<img src="Dashboard.png" alt="Dashboard" width="100%">
 
 ## Key Insights
 * Widespread Adoption: 87% of developers have integrated AI tools into their professional workflows.
