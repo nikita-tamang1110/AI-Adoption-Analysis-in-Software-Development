@@ -15,7 +15,6 @@ AI tools have rapidly become a standard part of the modern developer’s toolkit
 Dataset Source: [2025 Stack Overflow Developer Survey](https://www.kaggle.com/datasets/edoardogalli/stack-overflow-annual-developer-survey-2025)
 ## Dashboard 
 <img src="Dashboard.png" alt="Dashboard" width="100%">
-
 ## Key Insights
 * Widespread Adoption: 87% of developers have integrated AI tools into their professional workflows.
 * Daily Integration: Over half (51%) of the workforce utilizes AI tools on a daily basis.
@@ -35,8 +34,17 @@ Dataset Source: [2025 Stack Overflow Developer Survey](https://www.kaggle.com/da
 ## Tools and Technologies
 * Microsoft Excel (Power Query, Pivot Tables, Pivot Charts, Conditional Formatting, Slicers, Dashboard Design)
 
+## Challenges & Learnings
+* Data volume: The raw survey had 100+ columns. I used Power Query to filter only relevant fields, which was my first experience managing large-scale, real world data.
+* First project: Built with reference to Data Tutorials' Swiggy Sales Analysis project. AI tools(Gemini, ChatGPT) were used as learning aids in this project for understanding concepts, and validating my approach.
+* Analytical process: I came in with rough questions driven by genuine curiosity about AI in development. But the final questions were only confirmed after a quick scan of the dataset by checking if the data could actually support them. I learned that initial curiosity gives you direction, but the data tells you what's actually feasible.
+
 ## Conclusion
-The 2025 developer survey analysis reveals a "Paradox of Adoption": while AI integration is nearly universal ($87\%$) and perceived productivity is high, it has not yet earned full technical confidence. The low Career Threat ($14\%$) suggests that developers view AI as a functional assistant rather than a replacement. Ultimately, the future of AI in software development depends less on increasing adoption and more on closing the Trust Gap regarding code reliability.
+The 2025 developer survey analysis reveals a "Paradox of Adoption": while AI integration is nearly universal (87%) and perceived productivity is high, it has not yet earned full technical confidence. The low Career Threat (14%) suggests that developers view AI as a functional assistant rather than a replacement. Ultimately, the future of AI in software development depends less on increasing adoption and more on closing the Trust Gap regarding code reliability.
+
+## Acknowledgement
+Dashboard layout inspired by [Data Tutorials Swiggy Sales Analysis](https://www.youtube.com/watch?v=1yyRaCl31O0) 
+
 
 
 
