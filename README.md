@@ -1,6 +1,6 @@
 # AI-Adoption-Analysis-in-Software-Development
 ## Project Overview
-This analysis is based on self-reported responses from the 2025 Stack Overflow Developer Survey and analyzes how developers are using AI Tools across Software Developement Lifecycle. It explores adoption trends, usage patterns, productivity impact, trust levels, and job security perceptions.
+This analysis is based on self-reported responses from the 2025 Stack Overflow Developer Survey and analyzes how developers are using AI Tools across Software Development Lifecycle. It explores adoption trends, usage patterns, productivity impact, trust levels, and job security perceptions.
 
 The goal is to provide clear, data-driven insights into how AI is shaping modern software development.
 ## Problem Statement
